@@ -1,0 +1,5 @@
+This bot may collect basic information such as user IDs, server IDs, and messages only when needed to operate commands or features. 
+No data is shared with third parties, and any stored information is only retained as long as required for functionality.
+By using the bot, you agree to these privacy practices.
+
+PROVIDED BY ; github.com/nicopancakes/Basic-Setup
