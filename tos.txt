@@ -2,4 +2,6 @@ By using this bot, you agree to follow Discord’s Terms of Service and all serv
 Misuse of the bot, including spam, harassment, or illegal activity, may result in restricted access or removal.
 The bot is provided as-is with no guarantee of uptime, availability, or support, and use of the bot implies acceptance of these terms.
 
+The provided github project is not responsible for any damages, losses, or issues that occur from using or failing to use the bot.
+
 PROVIDED BY ; github.com/nicopancakes/Basic-Setup
