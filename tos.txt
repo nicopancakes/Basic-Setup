@@ -1,0 +1,5 @@
+By using this bot, you agree to follow Discord’s Terms of Service and all server rules.
+Misuse of the bot, including spam, harassment, or illegal activity, may result in restricted access or removal.
+The bot is provided as-is with no guarantee of uptime, availability, or support, and use of the bot implies acceptance of these terms.
+
+PROVIDED BY ; github.com/nicopancakes/Basic-Setup
